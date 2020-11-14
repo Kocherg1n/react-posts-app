@@ -3,6 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 You can add, edit, delete, mark as liked posts.
 
+## See [App](https://quizzical-poincare-b8d35c.netlify.app/)
+![react-posts-app](screenshots/posts.png "posts")
+
 ## Available Scripts
 In the project directory, you can run:
 
